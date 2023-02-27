@@ -13,6 +13,8 @@ I am unable to find the original 2010 reference material used to guide elements 
 If I recollect correctly, the guide project drew the objects in 2D and I expanded it to 3D. 
 I also had assistance from tutors and the professor. 
 
+![Screenshot](https://github.com/michael-rimmer-nz/311-l-system/blob/main/Screenshots/00.jpg)
+*Figure 1 - 2010 version screenshot*
 
 ### 2014 Edits ###
 
